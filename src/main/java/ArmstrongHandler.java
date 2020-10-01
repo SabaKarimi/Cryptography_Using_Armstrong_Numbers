@@ -30,6 +30,7 @@ public class ArmstrongHandler {
             j--;
         }
     }
+    // done rock
     private static int getNumber(int[] arr){
         int number = 0;
         for (int j : arr) {
