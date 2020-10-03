@@ -1,4 +1,3 @@
-//COLOR CHANGED
 public class ColorHandler {
     static int[] getColor(String key){
         int color[] = new int[3];
